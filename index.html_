@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ganoderma Vital - Bienestar Natural</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Georgia', serif;
+      background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),
+                  url('https://www.ecosystem.fr/generate/original/webp/REISHI_HISTOIRE___BIENFAITS_-_10.05.2024.webp') center/cover no-repeat fixed;
+      color: #e5c07b;
+    }
+    header {
+      background-color: rgba(26, 18, 11, 0.85);
+      text-align: center;
+      padding: 40px 20px;
+      border-bottom: 2px solid #e5c07b;
+    }
+    h1 {
+      font-size: 3em;
+      margin: 0;
+      color: #e5c07b;
+    }
+    p.slogan {
+      font-size: 1.2em;
+      margin-top: 10px;
+      color: #d2b48c;
+    }
+    nav {
+      background-color: rgba(42, 31, 20, 0.85);
+      text-align: center;
+      padding: 15px;
+    }
+    nav a {
+      color: #e5c07b;
+      text-decoration: none;
+      margin: 0 20px;
+      font-weight: bold;
+      transition: color 0.3s;
+    }
+    nav a:hover {
+      color: #f9e79f;
+    }
+    section {
+      max-width: 1000px;
+      margin: auto;
+      padding: 40px 20px;
+      background-color: rgba(0, 0, 0, 0.7);
+      border-radius: 12px;
+    }
+    h2 {
+      text-align: center;
+      color: #f9e79f;
+      margin-bottom: 30px;
+    }
+    .producto, .testimonio, .faq, .promo {
+      background-color: rgba(26, 26, 26, 0.85);
+      margin-bottom: 30px;
+      border-radius: 12px;
+      overflow: hidden;
+      box-shadow: 0 0 15px rgba(229, 192, 123, 0.2);
+      padding: 20px;
+    }
+    .producto {
+      display: flex;
+      flex-wrap: wrap;
+    }
+    .producto img {
+      width: 100%;
+      max-width: 300px;
+      object-fit: cover;
+      border-radius: 8px;
+    }
+    .producto-content {
+      padding: 20px;
+      flex: 1;
+    }
+    .producto h3 {
+      color: #f9e79f;
+      font-size: 1.6em;
+      margin-top: 0;
+    }
+    .producto p {
+      color: #ddd;
+    }
+    .btn {
+      display: inline-block;
+      padding: 10px 20px;
+      margin-top: 15px;
+      background-color: #e5c07b;
+      color: #0d0d0d;
+      text-decoration: none;
+      border-radius: 6px;
+      font-weight: bold;
+      transition: background-color 0.3s;
+    }
+    .btn:hover {
+      background-color: #d4af37;
+    }
+    footer {
+      background-color: rgba(26, 18, 11, 0.85);
+      text-align: center;
+      padding: 20px;
+      color: #d2b48c;
+      border-top: 2px solid #e5c07b;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Ganoderma Vital</h1>
+    <p class="slogan">Salud natural, energía vital y bienestar interior</p>
+  </header>
+
+  <nav>
+    <a href="#productos">Productos</a>
+    <a href="#promociones">Promociones</a>
+    <a href="#faq">FAQ</a>
+    <a href="#testimonios">Testimonios</a>
+    <a href="https://wa.me/573001112233" target="_blank">Contacto</a>
+  </nav>
+
+  <section id="productos">
+    <h2>Nuestros Productos Premium</h2>
+
+    <div class="producto">
+      <img src="https://http2.mlstatic.com/D_NQ_NP_965879-MCO79087739534_092024-O.webp" alt="Café con Ganoderma">
+      <div class="producto-content">
+        <h3>? Café con Ganoderma</h3>
+        <p>
+          Café gourmet con extracto puro de Ganoderma. Ayuda a fortalecer tu sistema inmunológico, regula el azúcar en sangre, mejora la digestión y combate el estrés. Una experiencia saludable y deliciosa para tu rutina diaria.
+        </p>
+        <a href="https://wa.me/573001112233?text=Quiero%20comprar%20Café%20con%20Ganoderma" class="btn">Comprar ahora</a>
+      </div>
+    </div>
+
+    <div class="producto">
+      <img src="https://www.ganoexcel.com.co/wp-content/uploads/2024/02/cap1.jpg" alt="Cápsulas de Ganoderma">
+      <div class="producto-content">
+        <h3>?? Cápsulas de Ganoderma</h3>
+        <p>
+          Fórmula concentrada que fortalece el hígado, reduce inflamación, mejora el sueño y la circulación. Ayuda a controlar el colesterol, estabilizar el azúcar en sangre, aliviar alergias y aumentar la energía naturalmente.
+        </p>
+        <a href="https://wa.me/573001112233?text=Quiero%20comprar%20Cápsulas%20de%20Ganoderma" class="btn">Comprar ahora</a>
+      </div>
+    </div>
+
+    <div class="producto">
+      <img src="https://i.ytimg.com/vi/4LCQGCNxNxM/maxresdefault.jpg" alt="Jabón de Ganoderma">
+      <div class="producto-content">
+        <h3>?? Jabón de Ganoderma</h3>
+        <p>
+          Limpieza profunda y cuidado natural. Ayuda a eliminar malos olores en las axilas con uso frecuente, calma irritaciones, reduce impurezas, hidrata la piel y la deja más fresca, luminosa y saludable.
+        </p>
+        <a href="https://wa.me/573001112233?text=Quiero%20comprar%20Jabón%20de%20Ganoderma" class="btn">Comprar ahora</a>
+      </div>
+    </div>
+  </section>
+
+  <section id="promociones">
+    <h2>Promociones Exclusivas</h2>
+    <div class="promo">
+      <p>?? Compra 2 Jabones y recibe un 15% de descuento adicional.</p>
+      <p>?? Envío gratuito en pedidos mayores a $100.000.</p>
+      <p>?? Combo bienestar: Café + Cápsulas + Jabón con 20% OFF.</p>
+    </div>
+  </section>
+
+  <section id="faq">
+    <h2>Preguntas Frecuentes</h2>
+    <div class="faq">
+      <p><strong>? ¿Qué es el Ganoderma?</strong><br>
+        Es un hongo medicinal ancestral conocido por sus propiedades inmunomoduladoras, antioxidantes y antiinflamatorias. Se usa para fortalecer el sistema inmune y mejorar la calidad de vida.
+      </p>
+      <p><strong>? ¿Tiene efectos secundarios?</strong><br>
+        Nuestros productos son 100% naturales. Consulta con tu médico si tienes alergias a hongos o condiciones específicas antes de consumirlo.
+      </p>
+      <p><strong>? ¿Hacen envíos?</strong><br>
+        Sí, enviamos a todo el país con pago contra entrega o transferencia segura. Recibe tus productos en casa sin complicaciones.
+      </p>
+    </div>
+  </section>
+
+  <section id="testimonios">
+    <h2>Lo que dicen nuestros clientes</h2>
+
+    <div class="testimonio">
+      <p>"El café con Ganoderma cambió mis mañanas. Me siento con más energía y claridad mental. ¡Recomendado 100%!"</p>
+      <p><strong>- Camila R.</strong></p>
+    </div>
+
+    <div class="testimonio">
+      <p>"Sufría de insomnio y las cápsulas me ayudaron a dormir mejor. Siento más vitalidad en el día a día."</p>
+      <p><strong>- Andrés M.</strong></p>
+    </div>
+
+    <div class="testimonio">
+      <p>"El jabón de Ganoderma me ayudó mucho. Tenía mal olor en las axilas y ahora con el uso diario me siento fresco y mi piel está más suave."</p>
+      <p><strong>- Laura G.</strong></p>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Ganoderma Vital - Vida saludable con cada producto</p>
+  </footer>
+</body>
+</html>
